@@ -53,4 +53,4 @@ Finally, creating a new bundle of cases is easy.  Just name the bundle, check th
 
 ### Author
 
-Matthew Gizzi, Sam Zandi (@sammyzammy)
+Matthew Gizzi, Sam Zandi ([@sammyzammy](https://github.com/sammyzanny))
