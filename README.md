@@ -29,7 +29,8 @@ The cases built in are in the seed file.  You can add more there if you wish, th
 4. Run ```rake db:seed```
 5. Run ```rails s```
 ### Client-Side Install Instructions
-1. Run ```open index.html```
+1. Adjust the API_URL in index.js to the port used in step 5 above
+2. Run ```open index.html```
 
 ### The App
 
